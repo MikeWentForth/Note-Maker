@@ -25,7 +25,7 @@ const fs = require('fs');  // Imports the file system module for reading/writing
 const express = require('express');
 // let db = require('./db/db.json');
 const bodyParser = require("body-parser");  // For reading the body of post requests
-const PORT = 3001;  // Specify on which port the Express.js server will run
+const PORT = process.env.PORT ;  // Specify on which port the Express.js server will run
 const path = require('path');  // Import built-in Node.js package 'path' to resolve path of files that are located on the server
 
 // Initialize the Express application
