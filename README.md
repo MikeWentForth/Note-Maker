@@ -18,3 +18,8 @@ For more information about the services that I offer, please contact me at themi
 https://github.com/MikeWentForth/Note-Maker
 
 https://notetakerforclass-415d14d07d1f.herokuapp.com/
+
+## Code Source ##
+
+Mike @ themikewallace@gmail.com
+Seth @ viapotentia@gmail.com
