@@ -19,7 +19,5 @@ https://github.com/MikeWentForth/Note-Maker
 
 https://notetakerforclass-415d14d07d1f.herokuapp.com/
 
-## Code Source ##
 
-Mike @ themikewallace@gmail.com
-Seth @ viapotentia@gmail.com
+![Alt text](image.png)
